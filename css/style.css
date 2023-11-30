@@ -1,0 +1,9 @@
+span {
+	color: black;
+	font-weight: 700;
+}
+mark {
+	color: rgb(82, 149, 211);
+	background: none;
+	font-weight: 700;
+}
